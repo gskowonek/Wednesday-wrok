@@ -1,0 +1,44 @@
+h1{
+		color:darkred;
+		text-align: center;
+	
+}
+
+table{
+	border: 10px solid black;
+	background-color:pink;
+	text-align: center;
+}
+
+table.center{
+		margin: auto;
+}
+
+body{
+	background-color: lightblue;
+	
+}
+
+nav{
+	position: absolute;
+	right: 10px;
+	background-color: purple
+}
+
+/*starting nav css*/
+nav ul{
+	list-style: none;
+	margin:0;
+	padding: 0;
+}
+
+nav ul li[
+	float: left;
+]
+
+nav li a{
+	display: block;
+	padding: 0 5px;
+	text-decoration: none;3
+	color:white;
+}
