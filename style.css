@@ -25,12 +25,15 @@ nav li a{
 	padding: 0 5px;
 	text-decoration: none;
 	color:white;
-	
-	nav ul li: hover[
-	
-	]
+}	
+nav ul li:hover{
+	background-color: yellow
+}
+nav ul li a:hover{
+	color:black;
+}
 	
 h1{
-	text-align: center 
-	
+	text-align: center; 
+	color:green  
 	}
